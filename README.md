@@ -45,7 +45,7 @@ Welcome! This open-source repository is a showcase and learning hub for my end-t
 
 ## 🛠️ How to Use
 1. **Clone this repo:**  
-   `git clone https://github.com/your-username/gym-blockchain-projects.git`
+   `git clone https://github.com/lazymoose1/publicProjects.git`
 
 2. **Set up Python env:**  
    See `requirements.txt` for RL projects
